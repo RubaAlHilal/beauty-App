@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">firstpage</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="welcome">Welcome to
+        \n BEAUTY!</string>
+
+    <string name="overv"> What is a beauty app? what are the services provided?
+    \n </string>
+
+    <string name="befvid">  Do you know the importance of beauty in our lives?
+    </string>
+
+    <string name="beffvid">
+    This video will explain it. </string>
+
+    <string name="home_desc">
+BEAUTY is an app that sells beauty products and contains three product categories: Skincare, Makeup, and Hair.
+In addition, you can see a short video about the importance of beauty.\n
+Contact us if you need any help.
+    </string>
+
+    <string name="contact_us">you can find our account here:
+    </string>
+
+    <string name="about_us">
+        Alhanouf Alhamied\n        Information Technology.\n        Imam Mohammed bin Saud Islamic
+    </string>
+
+    <string name="about_us2">
+        Ruba AlHilal\n        Information Technology.\n        Imam Mohammed bin Saud Islamic
+    </string>
+
+    <string name="about_us3">
+        Joud AlZeydan\n        Information Technology.\n        Imam Mohammed bin Saud Islamic
+    </string>
+
+    <string name="descreptAlHanof">
+    I am interested in software development.\n
+    My old project on the Android studio was about\n
+    how you can detect your hair type using AI tech.
+    </string>
+
+    <string name="descreptRuba">
+    I am interested in Networks, Cybersecurity, IoT,\n
+    and app development.
+    </string>
+
+
+</resources>

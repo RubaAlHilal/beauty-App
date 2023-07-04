@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/he"
+    android:gravity="bottom"
+   android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="156dp"
+        android:layout_height="166dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginBottom="-30dp"
+        android:src="@drawable/logocolor"/>
+
+</LinearLayout>
